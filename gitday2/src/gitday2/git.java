@@ -8,7 +8,7 @@ public class git {
 	}
 	public void m2()
 	{
-		System.out.println("m2 metho ...........................d");
+		System.out.println("m2 method ...........................");
 	}
 public void m3()
 	{
