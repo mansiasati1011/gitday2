@@ -10,5 +10,8 @@ public class git {
 	{
 		System.out.println("m2 method");
 	}
-
+public void m3()
+	{
+		System.out.println("m3 method");
+	}
 }
