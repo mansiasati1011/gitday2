@@ -1,0 +1,2 @@
+# gitday2
+myrepo
